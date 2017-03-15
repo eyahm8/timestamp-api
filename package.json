@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "Timestamp-Api project @ FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikael Rasimus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
