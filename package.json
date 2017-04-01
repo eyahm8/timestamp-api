@@ -7,7 +7,7 @@
     "start": "node index.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mikael.rasimus@gmail.com",
+  "author": "Mikael Rasimus",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
